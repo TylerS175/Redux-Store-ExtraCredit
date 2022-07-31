@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TylerS175/Redux-Store-ExtraCredit/issues"
   },
-  "homepage": "https://github.com/TylerS175/Redux-Store-ExtraCredit#readme"
+  "homepage": "https://github.com/TylerS175/Redux-Store-ExtraCredit#readme",
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0"
+  }
 }
